@@ -1,9 +1,9 @@
 # About Me:
 
-⚡ My name is Kevin, and I am an aspiring Software Engineer pursuing a Bachelor's Degree in Computer Science at the University of Central Florida.
-🛠️ I'm currently working on a Senior Project that generates tracking data of people in art galleries to create 3D models of gallery layouts with movement paths and heat zones.
-🌱 I'm currently learning CV scripting with Jetson devices and converting Python codebases into C#.
-💬 Ask me about computer vision, tracking systems, or building real-world technical solutions.
+⚡ My name is Kevin, and I am an aspiring Software Engineer pursuing a Bachelor's Degree in Computer Science at the University of Central Florida.<br/>
+🛠️ I'm currently working on a Senior Project that generates tracking data of people in art galleries to create 3D models of gallery layouts with movement paths and heat zones.<br/>
+🌱 I'm currently learning CV scripting with Jetson devices and converting Python codebases into C#.<br/>
+💬 Ask me about computer vision, tracking systems, or building real-world technical solutions.<br/>
 
 ## Socials:
 
@@ -45,5 +45,6 @@
 # GitHub Stats:
 
 ![](https://github-readme-stats.vercel.app/api?username=KevinTTO5&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=KevinTTO5&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=KevinTTO5&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KevinTTO5&theme=tokyonight&hide_border=false&layout=compact)
