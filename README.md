@@ -1,21 +1,16 @@
-## About Me:
+# About Me:
 
-⚡ My name is Kevin, and I am an aspiring Software Engineer pursuing a Bachelor's Degree in Computer Science at the University of Central Florida!
-
+⚡ My name is Kevin, and I am an aspiring Software Engineer pursuing a Bachelor's Degree in Computer Science at the University of Central Florida.
 🛠️ I'm currently working on a Senior Project that generates tracking data of people in art galleries to create 3D models of gallery layouts with movement paths and heat zones.
-
 🌱 I'm currently learning CV scripting with Jetson devices and converting Python codebases into C#.
-
 💬 Ask me about computer vision, tracking systems, or building real-world technical solutions.
 
-
-## 🌐 Socials:
+## Socials:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kevinarodriguez25/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://kevinarodriguez.com)
 
 
-## 💻 Tech Stack:
+# Tech Stack:
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
@@ -47,8 +42,8 @@
 ![ElevenLabs](https://img.shields.io/badge/ElevenLabs-000000?style=for-the-badge)
 
 
-## 📊 GitHub Stats:
+# GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=KevinTTO5&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-stats.vercel.app/api?username=KevinTTO5&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KevinTTO5&theme=tokyonight&hide_border=false&layout=compact)
